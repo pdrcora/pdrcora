@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 <!--
-**pdrcora/pdrcora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Komax Comercial do Brasil LTDA
 - 🌱 I’m currently in a MBA in Software Engeneering
 - 👯 I’m looking to collaborate on projects for begginers
